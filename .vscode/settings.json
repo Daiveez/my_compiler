@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.terminal.activateEnvironment": true,
+    "python.condaPath": "/Users/user/anaconda3/bin/conda",
+    "python.pythonPath": "/Users/user/anaconda3/envs/myenv/bin/python"
+}
